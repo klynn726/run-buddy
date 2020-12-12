@@ -12,3 +12,5 @@ https://klynn726.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Kate
+
+# Run Buddy Inc.
