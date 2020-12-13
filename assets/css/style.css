@@ -430,11 +430,11 @@ section {
   }
 
   .step h3 {
-    fex: 1 100%;
+    flex: 1 100%;
     text-align: center;
   }
 
-  .step-info: {
+  .step-info {
     flex: 2 100%;
     text-align: center;
     justify-content: center;
